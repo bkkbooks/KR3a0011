@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3a0011/SBCK/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 䟦申鍳注後右荀悅申鍳五卷乃吳郡黄文學勉之所注也漢史載悅為獻帝黄門侍郎是時政移曹操故申漢故事以為帝鍳及泄􅀁藴負共五篇以上一曰政體二曰時事三曰俗嫌四曰雜言上五曰雜言下皆深切時􅁦關治化人君􅀁當遵行者悅之用心可謂勤矣勉之感其􅀁遭而先帝之時適有姧臣心迹如操者􅀼弄威柄遂憤激為注此書共得萬四千餘言中􅀁引據又皆漢事尤為博洽少傅守谿王公謂其有感而為者誠然㢤昔揚雄自言􅀁著太玄經後世必有知子雲者今觀勉之之注殆亦深知荀悅者與正德􅉝巳冬十一月望白巗山人喬宇識
+  hash: sha256:fe1ddd690fc50c3b4f4055728cc46e4fe68a7b44dfe691be139f0680e43ce3c5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0011_SBCK_006-1a}
+metadata:
+  title: 申鑒
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 03:50:43.078458'
+  source:
+    repository: kanripo
+    path: KR3a0011/KR3a0011_006.txt
+hash: sha256:fb35021a869f8214a1c6c79779d5be950e33113bb650ed486d90c404a219dd2e
